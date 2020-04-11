@@ -1,0 +1,11 @@
+name: Phaletora-Sell
+version: 0.01
+description: Allows the user to sell their items in a GUI
+author: MagicZerda
+depend: [MMOItems]
+main: de.magiczerda.phaletora.sell.plugin.Plugin
+
+commands:
+  quicksell:
+    description: Type this command and sell an MMOItem via a GUI
+    usage: /<command>
